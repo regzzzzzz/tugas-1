@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+
+            <th>No</th>
+            <th>Nama Situs</th>
+            <th>Deskripsi</th>
+            <th>gambar</th>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1    </td>
+                <td>
+                    <a href="https://id-id.facebook.com/">facebook</a>
+                </td>
+                <TD>Facebook merupakan sebuah platform teknologi komputer yang berbasis website dan mobile devices. Facebook sebagai sebuah platform media sosial menawarkan fitur teknologi kepada para pengguna untuk dapat menggunakan dan memanfaatkan secara gratis dan terbuka dalam berbagai kepentingan.</TD>
+                <td>
+                    <img alt="gambar facebook" src="gambar/facebook.jfif" width="150px" border="2"/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td><a href="https://www.google.co.uk/">google</a>
+                </td>
+                <td>Google merupakan mesin pencarian internet paling besar di dunia. Sebagian besar aspek tentang pengetahuan, baik pengetahuan alam, negara bahkan dunia sangat lengkap di google. Selain itu google juga memiliki beberapa fitur yang juga bisa membantu kita supaya memudahkan menggunakan gadget dalam kegiatan sehari-hari.</td>
+
+                <td><img src="gambar/download.png" alt="gambar google"  width="150px" border="2"/>
+                </td>
+
+                <tr>
+                <td>3</td>
+                <td>
+                    <a href="https://www.instagram.com/">instagram</a>
+                </td>
+                <td>
+                    Instagram sendiri ialah suatu jejaring sosial yang mempunyai tujuan untuk membantu penggunanya untuk membagikan foto kepada pengguna lainnya. Instagram sendiri masih berkhusus kepada pengguna android, iphone, ipad, dan gadget yang mempunya OS 3.2 untuk pengguna komputer masih belum sempurna.
+                </td>
+                <td>
+                    <img src="gambar/download.jfif" alt="gambar instagram" width="150px" border="2"/>
+                </td>
+                </tr>
+
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <a href=https://www.tiktok.com/en/>tiktok</a>
+                    </td>
+                    <td>TikTok, dan padanannya dalam bahasa Mandarin, Douyin (Hanzi: 抖音; Pinyin: Dǒuyīn), adalah layanan hosting video berdurasi pendek yang dimiliki oleh perusahaan Tiongkok, ByteDance. Layanan ini menghosting video yang dikirimkan pengguna, yang dapat berdurasi mulai dari 3 detik hingga 10 menit.</td>
+                    <td>
+                        <img src="gambar/download (1).jfif" alt="tiktok">
+                    </td>
+                </tr>
+<tr>
+    <td>
+        <a href="https://id.wikipedia.org/wiki/Wikipedia:Wikipedia_adalah_ensiklopedia">wikipedia</a>
+    </td>
+    <td>
+        Wikipedia adalah sebuah wiki yang dapat diubah oleh setiap orang, kecuali untuk pengguna yang diblok dan pengecualian di halaman terlindung. Wikipedia mengandung isi bebas dan menggunakan copyleft Lisensi dokumentasi bebas GNU.
+    </td>
+    <td>
+        <img src="gambar/download (1).jfif" alt="wikipedia">
+    </td>
+</tr>
+                
+
+                 
+                 
+            </tr>
+            
+        </tbody>
+
+    </table>
+</body>
+</html>
